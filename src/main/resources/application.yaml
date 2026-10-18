@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: movie-flix-curso-java10x
